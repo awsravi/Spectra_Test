@@ -5,7 +5,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class SortingListOfArrays {
+public class SortingListOfArrays{
 	public static void main(String[] args) {
 
 		List<Integer> listNum = Arrays.asList(14, 46, 47, 86, 92, 52, 48, 36, 66, 85);
